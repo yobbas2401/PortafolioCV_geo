@@ -1,2 +1,2 @@
 # PortafolioCV_geo
-Curriculum y portafolio de proyectos realizados en ingenieria mecatronica
+Curriculum personal y portafolio de proyectos realizados en Ingenieria Mecatronica
