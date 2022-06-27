@@ -4703,7 +4703,7 @@ button.close {
     }
 }
 body {
-    background-image: -webkit-linear-gradient(top, #51097a, #63141b);
+    background-image: -webkit-linear-gradient(top, #ec0909, #1a0e0f);
     background-image: -o-linear-gradient(top, #771717 0, #3f8bd3 100%);
     background-image: linear-gradient(180deg, #0d1429 0, #1b1919);
     background-repeat: repeat-x;
