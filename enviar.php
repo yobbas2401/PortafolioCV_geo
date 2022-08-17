@@ -1,7 +1,7 @@
 <?php 
-	$email = $_POST['Email'];
-	$asunto = $_POST['Subject'];
-	$mensaje = "Email: $email<br> Mensaje:".$_POST['mensaje'];
+	$email = $_POST['email'];
+	$asunto = $_POST['subject'];
+	$mensaje = "Email: $email<br> Mensaje:".$_POST['mesaje'];
 
 
 	if(mail('yoba.vega2401@gmail.com', $asunto, $mensaje)){
